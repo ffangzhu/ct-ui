@@ -1,9 +1,10 @@
 {
-  "name": "ct-ui",
-  "version": "0.0.1",
+  "name": "@zhufang/ct-ui",
+  "version": "0.0.2",
   "description": "Vue 中基于Element-ui二次封装基础组件文档",
   "author": "ffangzhu <zf545915118@163.com>",
   "private": false,
+  "license": "ISC",
   "main": "packages/index.js",
   "scripts": {
     "serve": "vue-cli-service serve --open",
